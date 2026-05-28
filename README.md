@@ -47,4 +47,3 @@ Here are some ideas to get you started:
   ### Elsewhere
 
   [LinkedIn](https://linkedin.com/in/morgan-li-dev) ·
-  [zizhen.li1912@gmail.com](mailto:zizhen.li1912@gmail.com)
