@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
   ### Elsewhere
 
-  [LinkedIn](https://linkedin.com/in/morgan-li-dev) ·
+  [LinkedIn](https://linkedin.com/in/morgan-li-dev) · [Email](mailto:morgan.li.dev@gmail.com)
